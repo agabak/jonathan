@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "jona-app"
+    }
+  },
+  "defaultProject": "jona-app",
+  "cli": {
+    "analytics": false
+  }
 }
